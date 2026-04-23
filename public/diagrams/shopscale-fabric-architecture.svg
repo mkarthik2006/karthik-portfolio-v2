@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760">
+  <rect width="1200" height="760" fill="#f8fafc" />
+  <text x="40" y="42" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="700" fill="#0f172a">ShopScale Fabric - Event-Driven Microservices Architecture</text>
+
+  <rect x="60" y="90" width="180" height="54" rx="8" fill="#dbeafe" stroke="#1d4ed8" />
+  <text x="84" y="123" font-family="Inter, Arial, sans-serif" font-size="16" fill="#1e3a8a">React UI :3000</text>
+
+  <rect x="300" y="90" width="220" height="54" rx="8" fill="#dcfce7" stroke="#166534" />
+  <text x="322" y="123" font-family="Inter, Arial, sans-serif" font-size="16" fill="#166534">API Gateway :9080</text>
+
+  <rect x="600" y="90" width="190" height="54" rx="8" fill="#fee2e2" stroke="#b91c1c" />
+  <text x="626" y="123" font-family="Inter, Arial, sans-serif" font-size="16" fill="#991b1b">Keycloak :8180</text>
+
+  <line x1="240" y1="117" x2="300" y2="117" stroke="#334155" stroke-width="2" />
+  <polygon points="300,117 292,112 292,122" fill="#334155" />
+  <line x1="520" y1="117" x2="600" y2="117" stroke="#334155" stroke-width="2" />
+  <polygon points="600,117 592,112 592,122" fill="#334155" />
+
+  <rect x="160" y="220" width="170" height="52" rx="8" fill="#ffffff" stroke="#64748b" />
+  <text x="182" y="251" font-family="Inter, Arial, sans-serif" font-size="14" fill="#0f172a">Product :9081</text>
+  <rect x="350" y="220" width="170" height="52" rx="8" fill="#ffffff" stroke="#64748b" />
+  <text x="375" y="251" font-family="Inter, Arial, sans-serif" font-size="14" fill="#0f172a">Order :9082</text>
+  <rect x="540" y="220" width="170" height="52" rx="8" fill="#ffffff" stroke="#64748b" />
+  <text x="560" y="251" font-family="Inter, Arial, sans-serif" font-size="14" fill="#0f172a">Inventory :9083</text>
+  <rect x="730" y="220" width="190" height="52" rx="8" fill="#ffffff" stroke="#64748b" />
+  <text x="750" y="251" font-family="Inter, Arial, sans-serif" font-size="14" fill="#0f172a">Notification :9084</text>
+  <rect x="940" y="220" width="140" height="52" rx="8" fill="#ffffff" stroke="#64748b" />
+  <text x="965" y="251" font-family="Inter, Arial, sans-serif" font-size="14" fill="#0f172a">Price :9085</text>
+  <rect x="940" y="290" width="140" height="52" rx="8" fill="#ffffff" stroke="#64748b" />
+  <text x="969" y="321" font-family="Inter, Arial, sans-serif" font-size="14" fill="#0f172a">Cart :9086</text>
+
+  <line x1="410" y1="144" x2="245" y2="220" stroke="#64748b" stroke-width="2" />
+  <line x1="410" y1="144" x2="435" y2="220" stroke="#64748b" stroke-width="2" />
+  <line x1="410" y1="144" x2="625" y2="220" stroke="#64748b" stroke-width="2" />
+  <line x1="410" y1="144" x2="825" y2="220" stroke="#64748b" stroke-width="2" />
+  <line x1="410" y1="144" x2="1010" y2="220" stroke="#64748b" stroke-width="2" />
+  <line x1="410" y1="144" x2="1010" y2="290" stroke="#64748b" stroke-width="2" />
+
+  <rect x="420" y="390" width="220" height="58" rx="8" fill="#fef3c7" stroke="#a16207" />
+  <text x="494" y="425" font-family="Inter, Arial, sans-serif" font-size="16" fill="#92400e">Kafka :9092</text>
+
+  <line x1="435" y1="272" x2="510" y2="390" stroke="#0f766e" stroke-width="2" />
+  <text x="350" y="350" font-family="Inter, Arial, sans-serif" font-size="12" fill="#0f766e">order.placed</text>
+  <line x1="610" y1="272" x2="560" y2="390" stroke="#0f766e" stroke-width="2" />
+  <line x1="825" y1="272" x2="590" y2="390" stroke="#0f766e" stroke-width="2" />
+  <line x1="560" y1="448" x2="435" y2="272" stroke="#b91c1c" stroke-width="2" />
+  <text x="563" y="520" font-family="Inter, Arial, sans-serif" font-size="12" fill="#b91c1c">inventory.failure / order.cancelled</text>
+
+  <rect x="120" y="560" width="220" height="56" rx="8" fill="#e2e8f0" stroke="#475569" />
+  <text x="146" y="594" font-family="Inter, Arial, sans-serif" font-size="14" fill="#1e293b">Redis Rate Limiter</text>
+  <rect x="390" y="560" width="220" height="56" rx="8" fill="#e2e8f0" stroke="#475569" />
+  <text x="455" y="594" font-family="Inter, Arial, sans-serif" font-size="14" fill="#1e293b">PostgreSQL</text>
+  <rect x="660" y="560" width="220" height="56" rx="8" fill="#e2e8f0" stroke="#475569" />
+  <text x="736" y="594" font-family="Inter, Arial, sans-serif" font-size="14" fill="#1e293b">MongoDB</text>
+  <rect x="930" y="560" width="180" height="56" rx="8" fill="#e2e8f0" stroke="#475569" />
+  <text x="983" y="594" font-family="Inter, Arial, sans-serif" font-size="14" fill="#1e293b">Zipkin</text>
+</svg>
