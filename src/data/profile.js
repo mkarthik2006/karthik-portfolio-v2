@@ -200,7 +200,7 @@ export const profile = {
     email: "karthikm930620@gmail.com",
     phone: "+91 9600848309",
     leetcode: "https://leetcode.com/u/mkarthik2006/",
-    resumePreview: "https://docs.google.com/document/d/1UzY0q66XRIqNtpWxQnV2rkZ-LDcpzu-a/preview",
-    resumePdf: "https://docs.google.com/document/d/1UzY0q66XRIqNtpWxQnV2rkZ-LDcpzu-a/export?format=pdf"
+    resumePreview: "https://docs.google.com/document/d/1sym5h1JgBKBFXyEcEqDT12wwqU0kkmqQ/preview",
+    resumePdf: "https://docs.google.com/document/d/1sym5h1JgBKBFXyEcEqDT12wwqU0kkmqQ/export?format=pdf"
   }
 };
