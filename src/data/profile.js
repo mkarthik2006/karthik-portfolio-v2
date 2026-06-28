@@ -78,7 +78,7 @@ export const profile = {
     {
       role: "Java Full Stack Developer Intern",
       company: "Zaalima Development Pvt. Ltd",
-      duration: "Jan 2026 – Apr 2016",
+      duration: "Jan 2026 – Apr 2026",
       points: [
         "Built REST APIs using Spring Boot",
         "Implemented JWT authentication and endpoint validation",
