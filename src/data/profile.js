@@ -76,9 +76,9 @@ export const profile = {
   ],
   experience: [
     {
-      role: "Java Full Stack Developer",
+      role: "Java Full Stack Developer Intern",
       company: "Zaalima Development Pvt. Ltd",
-      duration: "Jan 2026 – Present",
+      duration: "Jan 2026 – Apr 2016",
       points: [
         "Built REST APIs using Spring Boot",
         "Implemented JWT authentication and endpoint validation",
